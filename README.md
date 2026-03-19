@@ -1,3 +1,6 @@
 # ssu-cs-531
-Computer Architecture, Sonoma State University
+Coursework for Computer Architecture at Sonoma State University.
+
+---
+
 * Project 1
